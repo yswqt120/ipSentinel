@@ -58,7 +58,7 @@
 3. 选择刚才 Fork 的仓库，点击 **Begin setup**
 4. **关键步骤**：在构建配置中：
    * **Build command**: (留空)
-   * **Build output directory**: 填入 `public`
+   * **Build output directory**: (留空)
 5. 点击 **Save and Deploy** 即可
 
 
