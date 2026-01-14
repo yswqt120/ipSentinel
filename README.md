@@ -3,6 +3,8 @@
 
 ** 演示地址： [IP Sentinel](https://ipsentinel.pages.dev)
 
+<img width="1894" height="881" alt="image" src="https://github.com/user-attachments/assets/63e923af-4142-4e6a-8488-eb5a60690462" />
+
 ## ✨ 主要特性
 
 * **🌍 多维度 IP 信息**: 显示客户端 IP、国家/城市、ISP（运营商）、ASN、数据中心信息及经纬度
